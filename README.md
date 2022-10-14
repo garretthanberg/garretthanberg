@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @garretthanberg.
-- 👀 I’m interested in a software development.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning HTML and CSS.
 - 📫 How to reach me: Email: garretthanbergphoto@gmail.com
 
