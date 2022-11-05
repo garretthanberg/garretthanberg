@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garretthanberg.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning Javascript.
 - 📫 How to reach me: Email: garretthanbergphoto@gmail.com
 
 <!---
