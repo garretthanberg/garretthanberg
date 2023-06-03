@@ -2,7 +2,7 @@ Hello, I am Garrett Hanberg, a graduate of The Tech Academy's Software Developer
 
 🛠  Tech Stack:
 
-    🌐   C# (.NET, MVC, ASP), Python (Django), Javascript (React, jQuery, Node.js), SQL, HTML, CSS (Bootstrap)
+    🌐   C# (.NET, MVC, ASP), Python (Django), Javascript (React, jQuery, Node.js), Java, SQL, HTML, CSS (Bootstrap)
 
     ⚙️   Git, GitHub, Azure DevOps
 
