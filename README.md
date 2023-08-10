@@ -1,14 +1,12 @@
-Hello, I am Garrett Hanberg, a graduate of The Tech Academy's Software Developer Boot Camp. During my time there, I gained a comprehensive understanding of various programming languages, libraries, and frameworks. I am confident in my abilities as a full-stack software developer and have demonstrated this through several coding projects, which can be found in my repositories. If you are interested in learning more about my skills and experience, please do not hesitate to contact me at contact@garretthanberg.com. I am eager to put my expertise to work and make a positive impact in a new role.
+Hey, I'm Garrett Hanberg 👋
 
-🛠  Tech Stack:
+I'm a honors graduate of The Tech Academy's Software Developer Boot Camp with a solid grasp of various programming languages, libraries, and frameworks. As a confident full-stack software developer, I've showcased my skills through a range of coding projects you'll find in my repositories.
 
-    🌐   C# (.NET, MVC, ASP), Python (Django), Javascript (React, jQuery, Node.js), Java, SQL, HTML, CSS (Bootstrap)
+    Tech Stack 🛠️:
+    Javascript (React/React Native, jQuery, Node.js)
+    Python (Django, Flask)
+    C# (.NET)
+    Java, C, SQL
+    HTML, CSS (Bootstrap, Tailwind CSS)
 
-    ⚙️   Git, GitHub, Azure DevOps
-
-    🔧   VS Code, Visual Studio, PyCharm, Xcode
-
-<!---
-garretthanberg/garretthanberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 You can reach me at contact@garretthanberg.com. Let's collaborate and create something together!
