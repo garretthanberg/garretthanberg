@@ -4,7 +4,7 @@ I'm a honors graduate of The Tech Academy's Software Developer Boot Camp with a 
 
     Tech Stack 🛠️:
     Javascript (React/React Native)
-    Swift (SwiftUI)
+    Swift (SwiftUI, UIKit)
     Typescript (Next.js)
     Python (Django, Flask)
     C# (.NET)
